@@ -166,7 +166,7 @@ Boxplots of Price across different categories
 
 👥 Contributors
 
-👨‍💻 Your Name (Project Author)
+👨‍💻 Rushikesh Chavan
 🎓 Machine Learning Developer
 
 If you’d like to contribute, feel free to fork the repository and submit a pull request.
